@@ -1,1 +1,3 @@
 line 1 for file2
+
+line 2 for file2
